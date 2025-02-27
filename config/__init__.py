@@ -1,4 +1,4 @@
-# controllers/__init__.py
+# config/__init__.py
 from .database import Database
 
 __all__ = ['Database']
