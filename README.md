@@ -46,7 +46,7 @@ Program Bagian 1 terdiri dari 4 operasi utama:
 ## Struktur Direktori
 
 ```
-programmer_test/
+eserkom-bag1/
 ├── .env                      # Konfigurasi database
 ├── main.py                   # Entry point program bagian 1
 ├── config/
